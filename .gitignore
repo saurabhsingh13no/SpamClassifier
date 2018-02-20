@@ -102,3 +102,4 @@ ENV/
 
 # gloveVector file
 data/glove.6B.50d.txt
+data/glove.twitter.27B.50d.txt
