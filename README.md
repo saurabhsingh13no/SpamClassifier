@@ -6,6 +6,8 @@ Model was trained using a dataset shared in the `./data/` folder. Notebooks in t
 
 * Note : LSTM model was used to classify a SMS as SPAM or NOT-SPAM. Below is the model architecture used :
 
+![this](./data/LSTM_architecture.png)
+
 ## How to run the code
 
 1. Download the repository
